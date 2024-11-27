@@ -1,0 +1,5 @@
+.DS_STORE
+.FsSyncLocks/
+
+ASNPsv2/
+Brewfile.lock.json
