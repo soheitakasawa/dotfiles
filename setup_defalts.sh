@@ -1,5 +1,5 @@
 for i in $(find ./defaults -type f); do
-    sh $i
+  sh $i
 done
 
 killall cfprefsd
